@@ -136,12 +136,6 @@ export default {
                   authority: ['admin'],
                 },
                 {
-                  name: '空白页面',
-                  icon: 'smile',
-                  path: '/emptypage',
-                  component: './EmptyPage',
-                },
-                {
                   component: './404',
                 },
               ],
